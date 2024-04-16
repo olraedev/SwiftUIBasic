@@ -11,6 +11,7 @@
 		EC334FA92BCE2CCE00A97EAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC334FA82BCE2CCE00A97EAB /* ContentView.swift */; };
 		EC334FAB2BCE2CD000A97EAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC334FAA2BCE2CD000A97EAB /* Assets.xcassets */; };
 		EC334FAE2BCE2CD000A97EAB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC334FAD2BCE2CD000A97EAB /* Preview Assets.xcassets */; };
+		EC334FB52BCE34B400A97EAB /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC334FB42BCE34B400A97EAB /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EC334FA82BCE2CCE00A97EAB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EC334FAA2BCE2CD000A97EAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC334FAD2BCE2CD000A97EAB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EC334FB42BCE34B400A97EAB /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				EC334FA82BCE2CCE00A97EAB /* ContentView.swift */,
 				EC334FAA2BCE2CD000A97EAB /* Assets.xcassets */,
 				EC334FAC2BCE2CD000A97EAB /* Preview Content */,
+				EC334FB42BCE34B400A97EAB /* SecondView.swift */,
 			);
 			path = SwiftUIBasic;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC334FB52BCE34B400A97EAB /* SecondView.swift in Sources */,
 				EC334FA92BCE2CCE00A97EAB /* ContentView.swift in Sources */,
 				EC334FA72BCE2CCE00A97EAB /* SwiftUIBasicApp.swift in Sources */,
 			);
