@@ -12,6 +12,8 @@
 		EC334FAB2BCE2CD000A97EAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC334FAA2BCE2CD000A97EAB /* Assets.xcassets */; };
 		EC334FAE2BCE2CD000A97EAB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC334FAD2BCE2CD000A97EAB /* Preview Assets.xcassets */; };
 		EC334FB52BCE34B400A97EAB /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC334FB42BCE34B400A97EAB /* SecondView.swift */; };
+		EC7E0F682BD0261300F15199 /* ButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7E0F672BD0261300F15199 /* ButtonModifier.swift */; };
+		EC7E0F6A2BD0279800F15199 /* TopOffsetModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7E0F692BD0279800F15199 /* TopOffsetModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		EC334FAA2BCE2CD000A97EAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC334FAD2BCE2CD000A97EAB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EC334FB42BCE34B400A97EAB /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		EC7E0F672BD0261300F15199 /* ButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonModifier.swift; sourceTree = "<group>"; };
+		EC7E0F692BD0279800F15199 /* TopOffsetModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopOffsetModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				EC334FAA2BCE2CD000A97EAB /* Assets.xcassets */,
 				EC334FAC2BCE2CD000A97EAB /* Preview Content */,
 				EC334FB42BCE34B400A97EAB /* SecondView.swift */,
+				EC7E0F672BD0261300F15199 /* ButtonModifier.swift */,
+				EC7E0F692BD0279800F15199 /* TopOffsetModifier.swift */,
 			);
 			path = SwiftUIBasic;
 			sourceTree = "<group>";
@@ -142,6 +148,8 @@
 			files = (
 				EC334FB52BCE34B400A97EAB /* SecondView.swift in Sources */,
 				EC334FA92BCE2CCE00A97EAB /* ContentView.swift in Sources */,
+				EC7E0F682BD0261300F15199 /* ButtonModifier.swift in Sources */,
+				EC7E0F6A2BD0279800F15199 /* TopOffsetModifier.swift in Sources */,
 				EC334FA72BCE2CCE00A97EAB /* SwiftUIBasicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
